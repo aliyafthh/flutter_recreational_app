@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156807166830",
+    "project_id": "rekreasi-34fb9",
+    "storage_bucket": "rekreasi-34fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156807166830:android:013c3b96ec2e9212721f7f",
+        "android_client_info": {
+          "package_name": "com.aliyafthh.recreational_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156807166830-er5qoehffqhe6uougfphlvegan6i8ree.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDI68XjU6DgBf8K_LKSzYJvTlkn2WHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156807166830-er5qoehffqhe6uougfphlvegan6i8ree.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
